@@ -10,7 +10,7 @@ import java.util.Random;
  */
 public class Main  {
     public static void main(String[] args) {
-        System.out.println("Enter number from 0 to 20 : ");
+        System.out.println("Enter number from 0 to 10: ");
         Integer inputNumber = readInput();
         Integer secretNumber = generateNumber();
 
